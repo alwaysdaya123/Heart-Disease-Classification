@@ -39,26 +39,7 @@ It utilizes **Python (Flask), Machine Learning (Scikit-learn), and SQL** to buil
 
 ---
 
-## 📂 Project Structure  
-📁 Heart-Disease-Classification
-┣ 📂 dataset
-┃ ┣ 📄 heart.csv
-┣ 📂 model
-┃ ┣ 📄 train_model.py
-┃ ┣ 📄 model.pkl
-┣ 📂 app
-┃ ┣ 📄 app.py
-┃ ┣ 📄 routes.py
-┃ ┣ 📄 templates/
-┃ ┃ ┣ 📄 index.html
-┃ ┃ ┣ 📄 result.html
-┃ ┣ 📄 static/
-┃ ┃ ┣ 📄 style.css
-┗ 📄 requirements.txt
-
-yaml
-Copy
-Edit
+## 📂 pom.xml
 
 ---
 
@@ -74,29 +55,14 @@ Edit
 ```sh
 git clone https://github.com/alwaysdaya123/Heart-Disease-Classification.git
 2️⃣ Install dependencies:
-
-sh
-Copy
-Edit
 pip install -r requirements.txt
 3️⃣ Train the model (if needed):
-
-sh
-Copy
-Edit
 python model/train_model.py
 4️⃣ Run the Flask application:
-
-sh
-Copy
-Edit
 python app/app.py
 5️⃣ Access the web app:
 
 Open your browser and go to:
-arduino
-Copy
-Edit
 http://localhost:5000
 📸 Screenshots
 🔹 [Add screenshots of the input form and prediction results here]
@@ -110,8 +76,8 @@ http://localhost:5000
 🚀 GitHub: alwaysdaya123
 
 🌟 If you find this project useful, don't forget to star ⭐ the repository!
-css
-Copy
-Edit
 
-This `README.md` covers **all essential details**, making it easy for others to understand and contribute to your pr
+
+This `README.md` covers **all essential details**, making it easy for others to understand and contribute to your project. Let me know if you need any modifications! 🚀
+
+
